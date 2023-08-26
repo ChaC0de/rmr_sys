@@ -1,0 +1,41 @@
+.p {
+    color: #F08080;
+}
+
+.input[type=text] {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    background-color: gray;
+}
+.dark-mode {
+  background-color: rgb(255,242,204);
+}
+.tablepink
+{
+    background-color: #f4cccc;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.form_error_span{
+    width: 80%;
+    height: 35px;
+    margin: 3px 10% ;
+    font-size: 1.1em;
+    color: #D83D5A;
+}
+.form_success_inp{
+    border: 1px solid #00ff00; 
+    text-align: center;
+    margin: 10px auto;
+}
+.text_dynamic{
+    width: 80%;
+    height: 35px;
+    margin: 3px 10% ;
+    font-size: 1.1em;
+    color: #181033;
+}
