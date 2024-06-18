@@ -75,7 +75,7 @@ $fileImage = $dir . basename($dormPic);
           echo "<img class='figure-img img-fluid rounded px-5' width='250px' height='auto;' src='../../img/dormTypePic/h1.jpg'>";
         } 
               if($row['dormType'] == 'คอนโด'){
-                echo "<img class='figure-img img-fluid rounded px-5' width='250px' height='auto;' src='../../img/dormTypePic/con.jpg'>";
+                echo "<img class='figure-img img-fluid rounded px-5' width='250px' height='auto;' src='../../img/dormTypePic/condo.jpg'>";
         } 
               if($row['dormType'] == 'ห้องแถว'){
                 echo "<img class='figure-img img-fluid rounded px-5' width='250px' height='auto;' src='../../img/dormTypePic/row.jpg'>";

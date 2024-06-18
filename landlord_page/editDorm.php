@@ -132,7 +132,7 @@ $fileImage_LAND = $dir . basename($land_pic);
 
             <label class="form-check-label" for="dormType">
             <p>คอนโด</p>
-                <img class="img-fluid" width="300px" height="200px" src="../img/dormTypePic/con.jpg"> 
+                <img class="img-fluid" width="300px" height="200px" src="../img/dormTypePic/condo.jpg"> 
             </label>
             </div>
             <div class="col form-check">

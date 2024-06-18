@@ -103,7 +103,7 @@ $query = mysqli_query($conn, $sql);
                                                 <input class="form-check-input" type="radio" value="คอนโด" name="dormType" id="dormType">
                                                 <label class="form-check-label" for="dormType">
                                                     <p>คอนโด</p>
-                                                    <img class="img-fluid" width="100%" src="../../img/dormTypePic/con.jpg">
+                                                    <img class="img-fluid" width="100%" src="../../img/dormTypePic/condo.jpg">
                                                 </label>
                                             </div>
                                         </div>

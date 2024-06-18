@@ -86,7 +86,7 @@ $fileImage_LAND = $dir . basename($land_pic);
           echo "<img class='figure-img img-fluid rounded px-5' width='250px' height='auto;' src='../img/dormTypePic/h1.jpg'>";
         } 
               if($result1['dormType'] == 'คอนโด'){
-                echo "<img class='figure-img img-fluid rounded px-5' width='250px' height='auto;' src='../img/dormTypePic/con.jpg'>";
+                echo "<img class='figure-img img-fluid rounded px-5' width='250px' height='auto;' src='../img/dormTypePic/condo.jpg'>";
         } 
               if($result1['dormType'] == 'ห้องแถว'){
                 echo "<img class='figure-img img-fluid rounded px-5' width='250px' height='auto;' src='../img/dormTypePic/row.jpg'>";
