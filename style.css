@@ -1,0 +1,192 @@
+/* Add your custom CSS here */
+body {
+  font-family: 'YourChosenFont', sans-serif;
+}
+
+.navbar {
+  background-color: #fff;
+  font-family: 'YourChosenFont', sans-serif;
+}
+
+.carousel {
+  margin-top: 20px;
+  background-color: #fff;
+  font-family: 'YourChosenFont', sans-serif;
+}
+
+.carousel-inner {
+  max-height: 400px;
+}
+
+.carousel-control-prev, .carousel-control-next {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.container {
+  margin-top: 20px;
+  font-family: 'YourChosenFont', sans-serif;
+}
+
+.btn-outline-secondary {
+  margin-right: 10px;
+  font-family: 'YourChosenFont', sans-serif;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 400px;
+  background-color: #fff;
+  font-family: 'YourChosenFont', sans-serif;
+}
+
+.py-5 {
+  padding: 50px 0;
+  font-family: 'YourChosenFont', sans-serif;
+}
+
+.text-center {
+  text-align: center;
+  background-color: #fff;
+  font-family: 'YourChosenFont', sans-serif;
+}
+
+.btn-primary {
+  background-color: #AEE2FF;
+  border-color: #AEE2FF;
+  color: #fff;
+  font-family: 'YourChosenFont', sans-serif;
+}
+
+.btn-primary:hover {
+  background-color: #007BFF;
+  border-color: #007BFF;
+  font-family: 'YourChosenFont', sans-serif;
+}
+.p11 {
+    color: #F08080;
+}
+
+.input[type=text] {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    background-color: gray;
+}
+.dark-mode {
+  background-color: rgb(255,242,204);
+}
+.tablepink
+{
+    background-color: #f4cccc;
+} 
+.form_error_span{
+    width: 80%;
+    height: 35px;
+    margin: 3px 10% ;
+    font-size: 1.1em;
+    color: #D83D5A;
+}
+.form_success_inp{
+    border: 1px solid #00ff00; 
+    text-align: center;
+    margin: 10px auto;
+}
+.text_dynamic{
+    width: 80%;
+    height: 35px;
+    margin: 3px 10% ;
+    font-size: 1.1em;
+    color: #181033;
+}
+#regForm {
+    background-color: #ffffff;
+    margin: 100px auto;
+    padding: 40px;
+    width: 70%;
+    min-width: 300px;
+  }
+  input {
+    padding: 10px;
+    width: 100%;
+    font-size: 17px;
+    font-family: Raleway;
+    border: 1px solid #aaaaaa;
+  }
+  
+  /* Mark input boxes that gets an error on validation: */
+  input.invalid {
+    background-color: #ffdddd;
+  }
+  
+  /* Hide all steps by default: */
+  .tab {
+    display: none;
+  }
+  
+  /* Make circles that indicate the steps of the form: */
+  .step {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbbbbb;
+    border: none;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.5;
+  }
+  
+  /* Mark the active step: */
+  .step.active {
+    opacity: 1;
+  }
+  
+  /* Mark the steps that are finished and valid: */
+  .step.finish {
+    background-color: #04AA6D;
+  }
+  /* Add your custom CSS here */
+.navbar {
+  background-color: #fff;
+}
+
+.carousel {
+  margin-top: 20px;
+  background-color: #fff;
+}
+
+.carousel-inner {
+  max-height: 400px;
+}
+
+.carousel-control-prev, .carousel-control-next {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.btn-outline-secondary {
+  margin-right: 10px;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 400px;
+  background-color: #fff;
+}
+
+.py-5 {
+  padding: 50px 0;
+}
+
+/* Set the background image for the body */
+body {
+  background-image: url('./img/bgg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #000; /* Set text color to black for better contrast */
+}
